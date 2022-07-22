@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWordCodePath</string>
+    <string name="marvin_intro">Hello World! My name is Marvin and I love to code and of course pitbulls!</string>
+    <string name="button_text">Hello World!</string>
+</resources>
