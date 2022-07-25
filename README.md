@@ -10,13 +10,14 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Improve UI/UX of app
+* [ ] Resume download on button click
 
 ## Video Walkthrough
 
@@ -33,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I have never used LiceCap before, so it was troubling at first to get the recording right.
 
 ## License
 
