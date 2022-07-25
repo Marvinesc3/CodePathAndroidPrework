@@ -38,7 +38,7 @@ I have never used LiceCap before, so it was troubling at first to get the record
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Marvin Escobar Barajas]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
